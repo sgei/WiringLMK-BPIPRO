@@ -90,7 +90,7 @@
 #define	PI_MAKER_QISDA		3
 #define   PI_MAKER_LEMAKER  4  //add for BananaPro by LeMaker team
 
-#define BP_REV 3  //add for BananaPro by lemaker team
+#define BP_REV 2  //add for BananaPro by lemaker team
 #define S500_REV 4  //add for S500
 
 extern const char *piModelNames    [7] ;
